@@ -1,5 +1,5 @@
 # Educational-Insights
-## Key Insights
+Key Insights
 * Expand Beginner Courses – Highest enrollment, strong demand.
 * Enhance Specializations – Lower ratings, needs improvement.
 * Promote Certificates – Low enrollment, better marketing needed.
